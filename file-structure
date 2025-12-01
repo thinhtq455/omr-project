@@ -1,0 +1,14 @@
+omr-project/
+│── data/
+│    ├── raw/
+│    ├── processed/
+│    ├── examples/
+│── src/
+│    ├── preprocess.py
+│    ├── detect_sheet.py
+│    ├── detect_bubbles.py
+│    ├── grader.py
+│    ├── utils.py
+│── output/
+│── README.md
+│── requirements.txt
